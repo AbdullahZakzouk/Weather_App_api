@@ -1,0 +1,29 @@
+body { 
+  background: url(https://i2.wp.com/sprintmilestone.com/blog/wp-content/uploads/2017/04/imax_extreme-weather_tornado.jpg?w=1300&ssl=1) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+  font-family: 'Comic Sans MS';
+}
+
+h1{
+  text-align:center;
+  font-size:100px;
+}
+.quotes{
+	padding: 20px;
+	box-shadow: 0 1px 5px 1px #ddd;
+	height: 200px auto;
+	border-radius: 10px;
+	width: 70%;
+	margin-top:7%;
+	margin-bottom:7%;
+}
+.shift{
+  padding-left:25%;
+}
+span{
+  font-size:20px;
+}
